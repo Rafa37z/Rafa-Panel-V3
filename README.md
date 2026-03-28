@@ -1,1 +1,1 @@
-# Rafa-Panel-V3
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Rafa37z/Rafa-Panel/refs/heads/main/Rafa%20panel"))()
